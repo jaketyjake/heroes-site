@@ -1,0 +1,14 @@
+.imgZoom{
+    width:60px
+}
+.moviesList{
+    display:flex;
+    flex-direction:row;
+
+}
+.mLink{
+    font-size:12px;
+}
+.card{
+    margin:20px;
+}
